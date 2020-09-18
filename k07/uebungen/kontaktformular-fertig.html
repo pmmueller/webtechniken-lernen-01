@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="de">
+
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"> 
+  
+  <title>Ein einfaches Kontaktformular - Videokurs zu HTML + CSS</title>
+  
+  <meta name="description" content="In diesem Videokurs lernen Sie das Erstellen und Gestalten von Webseiten mit HTML und CSS.">
+  
+  <link href="../ende/style.css" rel="stylesheet">
+
+  <style>
+    
+    label {
+      display: block; 
+    }
+    form div {
+      margin-bottom: 1em; 
+    }
+    
+  </style>
+  
+</head>
+
+<body>
+
+  <header class="site-header">
+    
+    <h1 class="site-logo"> 
+      <img    src="../ende/logo-html+css-222.gif" 
+           srcset="../ende/logo-html+css-444.gif 2x, 
+                   ../ende/logo-html+css-666.gif 3x"
+              alt="HTML + CSS" 
+            width="222" 
+           height="33">
+    </h1>  
+    
+    <p class="site-slogan">Webseiten erstellen und gestalten</p>
+  
+  </header>
+
+  <main class="site-content"> 
+    
+    <h2>Ein einfaches Kontaktformular</h2>
+    
+    <p>Mit dem folgenden Formular können Sie uns eine Nachricht schicken.</p>
+
+    <form class="kontaktformular" action="" method="post">
+      
+      <div>
+        <label for="besuchername">Ihr Name: </label>
+        <input type="text" id="besuchername" name="besuchername">
+      </div>
+      
+      <div>
+        <label for="besuchermail">Ihre E-Mail: </label>
+        <input type="email" id="besuchermail" name="besuchermail">
+      </div>   
+      
+      <div>
+        <label for="nachricht">Ihre Nachricht: </label>
+        <textarea id="nachricht" name="nachricht" cols="20" rows="5"></textarea>
+      </div>
+      
+      <div>
+        <button class="button" type="submit" value="Abgeschickt">Abschicken</button>
+      </div>
+     
+    </form>
+    
+  </main> 
+  
+</body>  
+</html>

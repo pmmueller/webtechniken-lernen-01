@@ -1,0 +1,55 @@
+<article>
+
+    <header>
+      <h3>Webstandards</h3>
+
+      <p class="beitragsinfo">
+        <span class="autor">Peter Müller</span> | 
+        <time datetime="2018-03-25">20. Mai 2018</time>
+      </p>
+    </header>  
+
+    <p>Ich bin zwar nur ein Fülltext, aber wenn Sie nun schon die Güte haben, mich ein paar weitere Sätze lang zu begleiten, möchte ich diese Gelegenheit nutzen, Ihnen nicht nur als Lückenfüller zu dienen, sondern auf etwas hinzuweisen, das es ebenso verdient wahrgenommen zu werden: Webstandards nämlich.</p>
+
+    <p>
+      <a href="#" class="read-more-link">Weiterlesen...</a>
+    </p>  
+
+</article>
+
+<article>
+
+  <header>
+    <h3>Hinter den Wortbergen</h3>
+
+    <p class="beitragsinfo">
+      <span class="autor">Anonymous</span> | 
+      <time datetime="2016-03">März 2016</time>
+    </p>
+  </header>
+
+  <p>Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. </p>
+
+  <p>
+    <a href="#" class="read-more-link">Weiterlesen...</a>
+  </p>  
+
+</article>
+
+<article>
+
+  <header>
+    <h3>Werther. Frisch verliebt.</h3>
+    <p class="beitragsinfo">
+      <span class="autor">Johann Wolfgang</span> | 
+      <time datetime="1774-09-29">29. September 1774</time>
+    </p>
+  </header>
+
+  <p>Eine wunderbare Heiterkeit hat meine ganze Seele eingenommen, gleich den süßen Frühlingsmorgen, die ich mit ganzem Herzen genieße. Ich bin allein und freue mich meines Lebens in dieser Gegend, die für solche Seelen geschaffen ist wie die meine.</p>
+
+  <p>
+    <a href="#" class="read-more-link">Weiterlesen...</a>
+  </p>  
+
+</article>      
