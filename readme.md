@@ -1,11 +1,11 @@
-# Übungsdateien zum Videokurs »Webtechniken lernen 1: HTML« von Peter Müller  
+# Videokurs »Webtechniken lernen 1: HTML« von Peter Müller  
+Übungsdateien 
 
 Infos zum Kurs: 
 https://html-und-css.de/videokurs/#teil1
 
 Bei LinkedIn Learning:  
 https://www.linkedin.com/learning/webtechniken-lernen-teil-1-html
-
 
 ## Stand
 - Version 1 
