@@ -1,4 +1,4 @@
-# Webtechniken lernen 1: HTML - Übungsdateien
+# Übungsdateien für Webtechniken lernen 1: HTML 
 
 Videokurs von Peter Müller:    
 https://html-und-css.de/videokurs/#teil1
