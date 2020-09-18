@@ -1,6 +1,6 @@
 --- 
 2018-09-10 
-
+Version 1.2 
 JPG-Dateien in k05-uebungen 
 - komprimiert mit https://shrinkme.app
 - komprimierte Dateien eingefügt 
@@ -8,13 +8,14 @@ JPG-Dateien in k05-uebungen
 
 --- 
 2018-09-03 
-
+Version 1.1
 index.html im Ordner /k08/ende geändert 
 (URLs in den Infoboxen ergänzt) 
 
 
 --- 
 2018-09-01
+Version 1.0 
 Kopie vom Aufnahmerechner 
 LinkedIn Graz 
 Booth 16 
