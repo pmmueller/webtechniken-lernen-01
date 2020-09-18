@@ -8,7 +8,8 @@ https://www.linkedin.com/learning/webtechniken-lernen-teil-1-html
 
 
 ## Stand   
-Version 1.1       
+Version 1.2       
 2018-09-10   
+Details siehe changelog.txt    
 
 --- eof --- 
